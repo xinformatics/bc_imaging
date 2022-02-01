@@ -1,0 +1,8 @@
+1 ER+ PR+ HER2+ aka Luminal B
+2 ER+ PR+ HER2- aka Luminal A
+3 ER+ PR- HER2+ aka Luminal B
+4 ER+ PR- HER2- aka Luminal A
+5 ER- PR+ HER2+ aka Luminal B
+6 ER- PR+ HER2- aka Luminal A
+7 ER- PR- HER2+ aka HER2-enriched
+8 ER- PR- HER2- aka TNBC
